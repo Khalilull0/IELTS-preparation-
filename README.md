@@ -1,4 +1,4 @@
-# Bandway — IELTS Practice Site (starter)
+# IELTS Prep — IELTS Practice Site (starter)
 
 A working React starter for an IELTS practice website, with a functional
 Reading module (timer, questions, auto-scoring) and a Listening page ready
